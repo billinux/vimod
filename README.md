@@ -22,7 +22,7 @@ or [vim-pathogen](https://github.com/tpope/vim-pathogen) to manage bundles and f
 
 * [Git](http://git-scm.com/) 1.5 or newer
 
-* [POSIX sh](http://pubs.opengroup.org/onlinepubs/009695399/utilities/sh.html)ell
+* [POSIX shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/sh.html
 
 [Unbundle]: https://github.com/sunaku/vim-unbundle
 
